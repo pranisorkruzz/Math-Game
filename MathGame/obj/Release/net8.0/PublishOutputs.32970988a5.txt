@@ -1,0 +1,5 @@
+C:\finishesProject\MathGame.exe
+C:\finishesProject\MathGame.dll
+C:\finishesProject\MathGame.deps.json
+C:\finishesProject\MathGame.runtimeconfig.json
+C:\finishesProject\MathGame.pdb
